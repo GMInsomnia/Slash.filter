@@ -1,0 +1,9 @@
+{
+  "Name": "Slash Filter",
+  "Version": "1.0",
+  "Author": "Insomnia",
+  "CompatibleWith": "Project Diablo 2 / BH 1.99",
+  "FilterFile": "slash.filter",
+  "Description": "ProgressiveHide, DropNote, RuneNote, Recipes – everything included"
+}
+
